@@ -19,7 +19,7 @@ Soy estudiante de **Ingeniería de Sistemas** con pasión por la **ciencia de da
 - **Librerías/Data**: Pandas, Numpy, Matplotlib, Scikit-learn
 - **Bases de datos**: MySQL
 - **Entornos**: Visual Studio Code
-- **Otros**: Git & GitHub, Power BI (en proceso)
+- **Otros**: Git & GitHub y Power BI
 
 ---
 
@@ -28,20 +28,6 @@ Soy estudiante de **Ingeniería de Sistemas** con pasión por la **ciencia de da
 - 📈 Dashboard interactivo de análisis de ventas de empresa ficticia
 - ⚙️ Automatización de analisis de proyectos con indicadores
 
-
 *Explora mis repositorios para ver más → [@GianpierreSoto](https://github.com/GianpierreSO)*
-
----
-
-## 🎯 Próximo objetivo
-
-Estoy en la búsqueda de una oportunidad como **practicante preprofesional** en áreas como **Data Science**. Busco seguir creciendo en equipos que valoren el aprendizaje continuo, la curiosidad y el impacto.
-
----
-
-## 📫 Conectemos
-
-- 💼 [LinkedIn](www.linkedin.com/in/gianpierre-cristian-soto-olivera)
-- ✉️ gianpierrec712@gmail.com
 
 ¡Gracias por visitar mi perfil! ⭐
